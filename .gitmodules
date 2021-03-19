@@ -1,0 +1,3 @@
+[submodule "ITMO-DT-Doc"]
+	path = ITMO-DT-Doc
+	url = git@github.com:Neliitsme/ITMO-DT-Doc.git
